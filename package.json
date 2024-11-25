@@ -1,0 +1,22 @@
+{
+  "name": "rag-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ai": "^4.0.3",
+    "cli-highlight": "^2.1.11",
+    "ollama-ai-provider": "^1.0.0",
+    "tsx": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.3"
+  }
+}
